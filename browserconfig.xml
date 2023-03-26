@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+<msapplication>
+<tile>
+<square70x70logo src="https://static.tumblr.com/qwe1vzy/MzOrs3y3c/mstile-70x70.png"/>
+<square144x144logo src="https://static.tumblr.com/qwe1vzy/p4Qrs3y3p/mstile-144x144.png"/>
+<square150x150logo src="https://static.tumblr.com/qwe1vzy/QMFrs3y47/mstile-150x150.png"/>
+<square310x310logo src="https://static.tumblr.com/qwe1vzy/PdOrs3y4z/mstile-310x310.png"/>
+<wide310x150logo src="https://static.tumblr.com/qwe1vzy/iN2rs3y4k/mstile-310x150.png"/>
+<TileColor>#0B0D11</TileColor>
+</tile>
+</msapplication>
+</browserconfig>
