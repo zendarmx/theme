@@ -1,12 +1,12 @@
 {
-"name": "Zendar",
-"short_name": "Zendar",
-"description": "Zendar",
+"name": "Zendar · Blog",
+"short_name": "Zendar · Blog",
+"description": "Zendar · Blog",
 "background_color": "#0B0D11",
 "theme_color": "#0B0D11",
 "display": "browser",
 "orientation": "portrait",
-"start_url": "https://zendar.mx",
+"start_url": "https://blog.zendar.mx",
 "lang": "es-MX",
 "icons": [
 {
